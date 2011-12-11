@@ -10,7 +10,6 @@ class TestProxy < SiriPlugin
 	end
 
 	def object_from_guzzoni(object, connection) 
-		
 		object
 	end
 		
